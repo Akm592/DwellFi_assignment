@@ -67,8 +67,8 @@ The project is organized into the following main directories:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd memory-research-assistant
+    git clone https://github.com/Akm592/DwellFi_assignment.git
+    cd DwellFi_assignment
     ```
 
 2.  **Create a virtual environment:**
@@ -98,8 +98,8 @@ The project is organized into the following main directories:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd memory-research-assistant
+    git clone https://github.com/Akm592/DwellFi_assignment.git
+    cd DwellFi_assignment
     ```
 2.  **Create a `.env` file:**
     Create a `.env` file in the root of the project and add your `GROQ_API_KEY`:
