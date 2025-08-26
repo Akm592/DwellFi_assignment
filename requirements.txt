@@ -1,0 +1,16 @@
+llama-index-core==0.13.3
+yake==0.4.8
+keybert==0.8.0
+cryptography==42.0.5
+pytest==8.2.0
+pytest-asyncio==0.23.6
+llama-index-callbacks-arize-phoenix
+python-dotenv
+fastapi
+uvicorn
+PyMuPDF
+llama-index-llms-groq
+httpx 
+llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma
+redis
